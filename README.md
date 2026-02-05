@@ -19,7 +19,7 @@ Men ma'lumotlar tahlili (**Data Analytics**) va dasturlashga qiziqaman. Hozirda 
 
 ### 📫 Bog'lanish:
 * **LinkedIn:** [linkedin.com/in/rashid-doniyorov](https://linkedin.com/in/rashid-doniyorov)
-* **LeetCode:** [leetcode.com/u/rashidjohn](https://leetcode.com/u/rashidjohn/)
+* **LeetCode:** [leetcode.com/u/rashidjohn](https://leetcode.com/u/rashidjohn)
 * **Veb-sayt:** [rashiddev.pythonanywhere.com](https://rashiddev.pythonanywhere.com)
 
 ---
